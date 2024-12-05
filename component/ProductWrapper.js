@@ -30,7 +30,7 @@ const ProductWrapper = ({navigation}) => {
         'https://images.pexels.com/photos/215583/pexels-photo-215583.jpeg?auto=compress&cs=tinysrgb&w=600',
     },
     {
-      id: 4,
+      id: 6,
       name: 'poco mobile',
       color: 'yellow',
       price: 80000,
